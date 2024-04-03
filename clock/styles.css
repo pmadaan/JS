@@ -1,0 +1,14 @@
+*{
+    background: linear-gradient(to right, #00AAFF, #00FFCC);
+}
+#time {
+    font-size: 200px;
+    text-align: center;
+    color: rosybrown;
+}
+
+#date {
+    text-align: center;
+    font-size: 100px;
+    color: saddlebrown;
+}
